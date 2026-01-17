@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vick👋</h1>
-<h3 align="center">I am currently Studying Computer Science 3rd Year at Kingston University</h3><br/>
+<h3 align="center">I am currently Studying Computer Science 3rd Year at Kingston University London</h3><br/>
 
 
 - 🌱 I’m currently learning **Kotlin (Andriod Development)**<br/>
