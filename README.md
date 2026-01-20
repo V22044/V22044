@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Kotlin (Andriod Development)**<br/>
 - 🖊️ I'm currently working on my Final year project<br/>
-- HELPpp.....<br/>
 
 
 ## 🌐 Socials:
