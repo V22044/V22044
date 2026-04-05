@@ -26,8 +26,7 @@
 
 <div align="center">
   
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=v22044&theme=darcula&hide_border=true)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v22044&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v22044&theme=black-ice&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
