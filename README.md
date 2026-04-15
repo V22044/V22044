@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Vick👋</h1>
 <h3 align="center">I am currently Studying Computer Science 3rd Year at Kingston University London</h3><br/>
 
-
-- 🌱 I’m currently working on MAD project - **GeoQuest(ReactNative)**<br/> 
 - 🖊️ I'm currently working on my Final year project<br/>
 
 
